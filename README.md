@@ -1,15 +1,17 @@
 ## About Me
-My name is Pablo Rubio. I am a **Full Stack Web Developer** and **Product Designer**. I 
+My name is Pablo Rubio. I am a **Full Stack Web Developer** and **Product Designer**.
 
-## Contact
-Find me on the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/pablo-rubio-villarroel/)
-- [GitHub](https://github.com/imisstheoldpabl0)
+### My Stats
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=imisstheoldpabl0&show_icons=true)
 
-## Projects
-#### TradeBoyAI
+### My Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=imisstheoldpabl0&limit=5&layout=compact&theme=flat&combine_all_yearly_contributions=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=imisstheoldpabl0&layout=compact
+### My Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imisstheoldpabl0&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 
 
 
